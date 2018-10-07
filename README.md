@@ -1,4 +1,4 @@
-# Mutation-Searching-in-DNA-Sequence
+Mutation-Searching-in-DNA-Sequence
 Computer Algorithm Lecture, Dongguk University
 --------------
 
